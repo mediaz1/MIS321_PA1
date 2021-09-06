@@ -1,0 +1,15 @@
+/Users/user/repos/MIS_321Repos/bin/Debug/net5.0/MDiaz-PA1.deps.json
+/Users/user/repos/MIS_321Repos/bin/Debug/net5.0/MDiaz-PA1.runtimeconfig.json
+/Users/user/repos/MIS_321Repos/bin/Debug/net5.0/MDiaz-PA1.runtimeconfig.dev.json
+/Users/user/repos/MIS_321Repos/bin/Debug/net5.0/MDiaz-PA1.dll
+/Users/user/repos/MIS_321Repos/bin/Debug/net5.0/ref/MDiaz-PA1.dll
+/Users/user/repos/MIS_321Repos/bin/Debug/net5.0/MDiaz-PA1.pdb
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.csprojAssemblyReference.cache
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.AssemblyInfoInputs.cache
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.AssemblyInfo.cs
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.csproj.CoreCompileInputs.cache
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.dll
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/ref/MDiaz-PA1.dll
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.pdb
+/Users/user/repos/MIS_321Repos/obj/Debug/net5.0/MDiaz-PA1.genruntimeconfig.cache

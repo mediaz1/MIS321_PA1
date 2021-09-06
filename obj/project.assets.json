@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/repos/MIS321_Repos/mis 321/MDiaz-PA1/MDiaz-PA1.csproj",
+      "projectUniqueName": "/Users/user/repos/MIS_321Repos/MDiaz-PA1.csproj",
       "projectName": "MDiaz-PA1",
-      "projectPath": "/Users/user/repos/MIS321_Repos/mis 321/MDiaz-PA1/MDiaz-PA1.csproj",
+      "projectPath": "/Users/user/repos/MIS_321Repos/MDiaz-PA1.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/repos/MIS321_Repos/mis 321/MDiaz-PA1/obj/",
+      "outputPath": "/Users/user/repos/MIS_321Repos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.nuget/NuGet/NuGet.Config"
